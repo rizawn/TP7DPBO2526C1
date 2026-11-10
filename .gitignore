@@ -1,0 +1,16 @@
+# Environment & OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Editor & IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# PHP & Local Server
+.phpunit.result.cache
+composer.lock
+vendor/
+
